@@ -44,6 +44,7 @@ header {
     stroke-width: 2;
 }
 
+
 @keyframes hideshow {
   100% { opacity: 1;
 		stroke-width: 2;
