@@ -116,7 +116,7 @@ select {
     border: 1px solid #C399C9;
     border-radius: 4px;
     color: #2e5ba1;
-    font-family: "Open Sans";
+    font-family: "Cairo";
 	margin-bottom: 0.5rem;
 }
 
@@ -153,7 +153,7 @@ html {
 
 body {
     background-color: #ebe6f0;
-    font-family: Open Sans;
+    font-family: Cairo;
     margin: 0;
     min-height: 100%;
     position: relative;
@@ -461,6 +461,7 @@ a.site-nav--link {
 
 .home-intro:nth-child(even), .home-testimonial:nth-child(even) {
 	margin-right: 0;
+    margin-left: 0;
 }
 
 .home-testimonial {
@@ -587,8 +588,16 @@ figure.portfolio-thumb {
 }
 
 .section-description {
-    padding-bottom: 0.4%;
+    padding-bottom: 0.2%;
     padding-left: 0.4%;
+    background-color: white;
+    margin-bottom: 8px;
+    box-shadow: 1px 1px 3px #DECFE4;
+    border-bottom: 1px solid #DECFE4;
+    padding-top: .8%;
+    font-size: 1.2em;
+    text-align: center;
+    font-weight: bold;
 }
 
 /* ==========================================================================

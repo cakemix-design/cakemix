@@ -63,21 +63,21 @@
 	}
 
 .home-content {
-    margin-top: 2%;
+    margin-top: 1.5%;
 }
 
 .home-intro{
-    width: 47%;
+    width: 48%;
 }
 
 .home-testimonial {
-    width: 100%;
+    width: 48%;
 }
 
 
 .home-intro {
-    margin-right: 2%;
-    margin-left: 2%;
+    margin-right: 1.5%;
+    margin-left: 1.5%;
 }
 
 
@@ -129,7 +129,7 @@ figure.portfolio-thumb {
 }
 
 /* Mobiles */
-@media screen and (max-width: 770px) {
+@media screen and (max-width: 775px) {
 
 
 	html {
