@@ -206,6 +206,10 @@ figure.portfolio-thumb {
 		margin-top: 1%;
 		
 	}
+    
+    .home-phone-email.contact-phone-email {
+        margin-bottom: 0;
+    }    
 	
 	.home-promo {
 		font-size: 1.2rem;
