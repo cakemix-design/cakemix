@@ -457,7 +457,7 @@ a.pswp__share--download:hover {
 
 .pswp__ui--idle .pswp__button--arrow--left,
 .pswp__ui--idle .pswp__button--arrow--right {
-  opacity: 0; }
+  opacity: 1; }
 
 /*
 	pswp__ui--hidden class is added when controls are hidden
