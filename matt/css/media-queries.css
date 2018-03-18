@@ -73,6 +73,7 @@
 
 .home-testimonial {
     width: 48%;
+    margin-left: 1.5%;
 }
 
 
@@ -170,6 +171,12 @@ figure.portfolio-thumb {
 		padding-left: 5%;
 		padding-right: 5%;
 	}	
+    
+    .home-testimonial {
+        
+        margin-left: 0;
+    }
+    
 	
 	
 	.body-container, .home-content {
